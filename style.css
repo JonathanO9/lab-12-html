@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    color: #008000;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #f00;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h1, h2{
+    background-color: #888888;
+}
+
+h2,p{
+    color: darkgreen;
+}
+
+p{
+    font-size: 12px;
+    text-decoration: line-through;
+}
+
+#intro{
+    border: 1px solid black;    
+}
+
+.spotlight{
+    background-color: #fefe22;
+}
+
